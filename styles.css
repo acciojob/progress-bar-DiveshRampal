@@ -6,7 +6,7 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: #f7f7f7;
+  background-color:whitesmoke;
 }
 
 .progress-container {
@@ -24,14 +24,14 @@ body {
 .circle {
   width: 30px;
   height: 30px;
-  background-color: #ccc;
+  background-color:ghostwhite;
   border-radius: 50%;
   transition: background-color 0.3s;
   position: relative;
 }
 
 .circle.active {
-  background-color: #4caf50;
+  background-color: skyblue;
 }
 
 .progress-line {
